@@ -1,6 +1,6 @@
 # Employee Master Application
 
-### This is sample aaplication which demostrate how to use gin frameworks, its routing, and api configuration
+### This is sample application which demostrate how to use gin frameworks, its routing, and api configuration
 
 this application has following APIs
 - GET    /employees/                --> get details of all the employees
